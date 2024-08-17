@@ -20,7 +20,7 @@ Pasos para instalar las dependencias y el proyecto.
 
 ```bash
 # Clona este repositorio
-git clone https://github.com/eescovit_bancol/springcloud-products-ms.git
+git clone https://github.com/dev-elliotesco/springcloud-products-ms.git
 
 # Entra en el directorio del proyecto
 cd springcloud-products-ms
