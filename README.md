@@ -13,6 +13,7 @@ como la creación, actualización, eliminación y consulta de productos.
 - [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway)
 - [Eureka Server](https://cloud.spring.io/spring-cloud-netflix/multi/multi_spring-cloud-eureka-server.html)
 - [Gradle](https://gradle.org/)
+- [PostgreSQL](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/)
 
 ## Instalación
